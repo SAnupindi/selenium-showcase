@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55340" started-at="2017-11-07T20:21:07Z" finished-at="2017-11-07T20:22:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55340" started-at="2017-11-07T20:21:07Z" finished-at="2017-11-07T20:22:02Z">
+      <class name="Tests.TablesAndFramesTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Tests.TablesAndFramesTest@a9cd3b1]" name="beforeMethod" is-config="true" duration-ms="17795" started-at="2017-11-07T15:21:07Z" finished-at="2017-11-07T15:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testVerifyStructureNames()[pri:0, instance:Tests.TablesAndFramesTest@a9cd3b1]" name="testVerifyStructureNames" duration-ms="36479" started-at="2017-11-07T15:21:25Z" finished-at="2017-11-07T15:22:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyStructureNames -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Tests.TablesAndFramesTest@a9cd3b1]" name="afterMethod" is-config="true" duration-ms="995" started-at="2017-11-07T15:22:01Z" finished-at="2017-11-07T15:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.TablesAndFramesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
